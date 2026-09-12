@@ -1,0 +1,6 @@
+{
+  "name": "सरकारी नौकरी में विकलांगता प्रतिशत नियम",
+  "description": "सरकारी नौकरी के लिए कितना प्रतिशत विकलांग होना चाहिए? RPwD एक्ट 2016 के तहत न्यूनतम 40% बेंचमार्क दिव्यांगता नियम, 4% आरक्षण, UDID कार्ड, आयु छूट और संपूर्ण पात्रता गाइड।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
